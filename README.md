@@ -12,3 +12,4 @@ You're welcome to build one for yourself. If you're not a builder and only a pla
 
 https://linktr.ee/crissmakesnoises
 
+To be noted, it wont work well with higher Synths outputs. The tested output of the Bass station 2 is around 0.5 volts at its max volume.
